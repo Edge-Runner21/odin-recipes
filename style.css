@@ -1,0 +1,21 @@
+.index{
+text-align: center;
+font-weight: 700;
+color: aqua;
+font-family: 'Times New Roman', Times, serif;
+}
+
+.noodles{
+text-align: center;
+font-weight: 700;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;    
+}
+
+.noodles.img{
+    height: auto;
+    width: 600px;
+}
+
+#sauce{
+    color: red;
+}
